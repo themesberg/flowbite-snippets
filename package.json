@@ -24,6 +24,18 @@
       {
         "language": "html",
         "path": "./snippets/accordion.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/alerts.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/badges.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/breadcrumbs.json"
       }
     ]
   },

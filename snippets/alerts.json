@@ -1,38 +1,38 @@
 {
-    "alert": {
-        "prefix": "alert",
+    "flowbite-alert": {
+        "prefix": "flowbite-alert",
         "body": [
-            "<div class=\"p-4 mb-4 text-sm text-blue-800 rounded-lg bg-blue-50 dark:bg-gray-800 dark:text-blue-400\" role=\"alert\">",
+            "<div class=\"p-4 mb-4 text-sm text-blue-800 rounded-lg bg-blue-50 dark:bg-gray-800 dark:text-blue-400\" role=\"flowbite-alert\">",
             "\t<span class=\"font-medium\">Info alert!</span> Change a few things up and try submitting again.",
             "</div>"
         ],
         "description": "Flowbite Info Alert",
         "scope": "html"
     },
-    "alert-success": {
-        "prefix": "alert-success",
+    "flowbite-alert-success": {
+        "prefix": "flowbite-alert-success",
         "body": [
-            "<div class=\"p-4 mb-4 text-sm text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400\" role=\"alert\">",
+            "<div class=\"p-4 mb-4 text-sm text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400\" role=\"flowbite-alert\">",
             "\t<span class=\"font-medium\">Success alert!</span> Change a few things up and try submitting again.",
             "</div>"
         ],
         "description": "Flowbite Success Alert",
         "scope": "html"
     },
-    "alert-warning": {
-        "prefix": "alert-warning",
+    "flowbite-alert-warning": {
+        "prefix": "flowbite-alert-warning",
         "body": [
-            "<div class=\"p-4 mb-4 text-sm text-yellow-700 rounded-lg bg-yellow-50 dark:bg-gray-800 dark:text-yellow-300\" role=\"alert\">",
+            "<div class=\"p-4 mb-4 text-sm text-yellow-700 rounded-lg bg-yellow-50 dark:bg-gray-800 dark:text-yellow-300\" role=\"flowbite-alert\">",
             "\t<span class=\"font-medium\">Warning alert!</span> Change a few things up and try submitting again.",
             "</div>"
         ],
         "description": "Flowbite Warning Alert",
         "scope": "html"
     },
-    "alert-danger": {
-        "prefix": "alert-danger",
+    "flowbite-alert-danger": {
+        "prefix": "flowbite-alert-danger",
         "body": [
-            "<div class=\"p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400\" role=\"alert\">",
+            "<div class=\"p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400\" role=\"flowbite-alert\">",
             "\t<span class=\"font-medium\">Danger alert!</span> Change a few things up and try submitting again.",
             "</div>"
         ],

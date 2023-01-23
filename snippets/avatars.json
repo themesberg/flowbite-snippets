@@ -1,4 +1,12 @@
 {
+    "flowbite-avatar": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-default",
+        "body": [
+            "<img class=\"w-10 h-10\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Default avatar\">"
+        ],
+        "description": "Flowbite Default Avatar"
+    },
     "flowbite-avatar-rounded": {
         "scope": "html",
         "prefix": "flowbite-avatar-rounded",
@@ -6,14 +14,6 @@
             "<img class=\"w-10 h-10 rounded-full\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Rounded avatar\">"
         ],
         "description": "Flowbite Rounded Avatar"
-    },
-    "flowbite-avatar-default": {
-        "scope": "html",
-        "prefix": "flowbite-avatar-default",
-        "body": [
-            "<img class=\"w-10 h-10\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Default avatar\">"
-        ],
-        "description": "Flowbite Default Avatar"
     },
     "flowbite-avatar-bordered": {
         "scope": "html",
