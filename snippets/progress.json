@@ -1,0 +1,66 @@
+{
+    "flowbite-progress": {
+        "scope": "html",
+        "prefix": "flowbite-progress",
+        "body": [
+            "<div class=\"w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700\">",
+            "\t<div class=\"bg-blue-600 h-2.5 rounded-full\" style=\"width: 45%\"></div>",
+            "</div>"
+        ],
+        "description": "Flowbite Progress Bar"
+    },
+    "flowbite-progress-small": {
+        "scope": "html",
+        "prefix": "flowbite-progress-small",
+        "body": [
+            "<div class=\"w-full bg-gray-200 rounded-full h-1.5 mb-4 dark:bg-gray-700\">",
+            "\t<div class=\"bg-blue-600 h-1.5 rounded-full dark:bg-blue-500\" style=\"width: 45%\"></div>",
+            "</div>"
+        ],
+        "description": "Flowbite Progress Bar Small"
+    },
+    "flowbite-progress-large": {
+        "scope": "html",
+        "prefix": "flowbite-progress-large",
+        "body": [
+            "<div class=\"w-full h-4 mb-4 bg-gray-200 rounded-full dark:bg-gray-700\">",
+            "\t<div class=\"h-4 bg-blue-600 rounded-full dark:bg-blue-500\" style=\"width: 45%\"></div>",
+            "</div>"
+        ],
+        "description": "Flowbite Progress Bar Large"
+    },
+    "flowbite-progress-extra-large": {
+        "scope": "html",
+        "prefix": "flowbite-progress-extra-large",
+        "body": [
+            "<div class=\"w-full h-6 bg-gray-200 rounded-full dark:bg-gray-700\">",
+            "\t<div class=\"h-6 bg-blue-600 rounded-full dark:bg-blue-500\" style=\"width: 45%\"></div>",
+            "</div>"
+        ],
+        "description": "Flowbite Progress Bar Extra Large"
+    },
+    "flowbite-progress-label-inside": {
+        "scope": "html",
+        "prefix": "flowbite-progress-label-inside",
+        "body": [
+            "<div class=\"w-full bg-gray-200 rounded-full dark:bg-gray-700\">",
+            "\t<div class=\"bg-blue-600 text-xs font-medium text-blue-100 text-center p-0.5 leading-none rounded-full\" style=\"width: 45%\"> 45%</div>",
+            "</div>"
+        ],
+        "description": "Flowbite Progress Bar Label Inside"
+    },
+    "flowbite-progress-label-outside": {
+        "scope": "html",
+        "prefix": "flowbite-progress-label-outside",
+        "body": [
+            "<div class=\"flex justify-between mb-1\">",
+            "\t<span class=\"text-base font-medium text-blue-700 dark:text-white\">Flowbite</span>",
+            "\t<span class=\"text-sm font-medium text-blue-700 dark:text-white\">45%</span>",
+            "</div>",
+            "<div class=\"w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700\">",
+            "\t<div class=\"bg-blue-600 h-2.5 rounded-full\" style=\"width: 45%\"></div>",
+            "</div>"
+        ],
+        "description": "Flowbite Progress Bar Label Outside"
+    }
+}

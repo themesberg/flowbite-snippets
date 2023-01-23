@@ -1,0 +1,422 @@
+{
+  "green-extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green extra-small with pill"
+  },
+  "green-extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-extra-small",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green extra-small"
+  },
+  "extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button extra-small with pill"
+  },
+  "extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-extra-small",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button extra-small"
+  },
+  "green-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-small-with-pill",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green small with pill"
+  },
+  "green-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-small",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green small"
+  },
+  "small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-small-with-pill",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button small with pill"
+  },
+  "small": {
+    "scope": "html",
+    "prefix": "flowbite-button-small",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button small"
+  },
+  "green-base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-base-with-pill",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green base with pill"
+  },
+  "green-base": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-base",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green base"
+  },
+  "base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-base-with-pill",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button base with pill"
+  },
+  "base": {
+    "scope": "html",
+    "prefix": "flowbite-button-base",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button base"
+  },
+  "green-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-large-with-pill",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green large with pill"
+  },
+  "green-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-large",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green large"
+  },
+  "large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-large-with-pill",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button large with pill"
+  },
+  "large": {
+    "scope": "html",
+    "prefix": "flowbite-button-large",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button large"
+  },
+  "green-extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green extra-large with pill"
+  },
+  "green-extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-extra-large",
+    "body": "<button class=\"text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green extra-large"
+  },
+  "extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button extra-large with pill"
+  },
+  "extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-extra-large",
+    "body": "<button class=\"text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button extra-large"
+  },
+  "red-extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red extra-small with pill"
+  },
+  "red-extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-extra-small",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red extra-small"
+  },
+  "red-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-small-with-pill",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red small with pill"
+  },
+  "red-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-small",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red small"
+  },
+  "red-base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-base-with-pill",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red base with pill"
+  },
+  "red-base": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-base",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red base"
+  },
+  "red-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-large-with-pill",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red large with pill"
+  },
+  "red-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-large",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red large"
+  },
+  "red-extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red extra-large with pill"
+  },
+  "red-extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-extra-large",
+    "body": "<button class=\"text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red extra-large"
+  },
+  "yellow-extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button yellow extra-small with pill"
+  },
+  "yellow-extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-extra-small",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button yellow extra-small"
+  },
+  "yellow-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-small-with-pill",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button yellow small with pill"
+  },
+  "yellow-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-small",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button yellow small"
+  },
+  "yellow-base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-base-with-pill",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button yellow base with pill"
+  },
+  "yellow-base": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-base",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button yellow base"
+  },
+  "yellow-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-large-with-pill",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button yellow large with pill"
+  },
+  "yellow-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-large",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button yellow large"
+  },
+  "yellow-extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button yellow extra-large with pill"
+  },
+  "yellow-extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-yellow-extra-large",
+    "body": "<button class=\"text-white bg-yellow-700 hover:bg-yellow-800 focus:outline-none focus:ring-4 focus:ring-yellow-300 dark:bg-yellow-600 dark:hover:bg-yellow-700 dark:focus:ring-yellow-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button yellow extra-large"
+  },
+  "purple-extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button purple extra-small with pill"
+  },
+  "purple-extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-extra-small",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button purple extra-small"
+  },
+  "purple-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-small-with-pill",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button purple small with pill"
+  },
+  "purple-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-small",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button purple small"
+  },
+  "purple-base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-base-with-pill",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button purple base with pill"
+  },
+  "purple-base": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-base",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button purple base"
+  },
+  "purple-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-large-with-pill",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button purple large with pill"
+  },
+  "purple-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-large",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button purple large"
+  },
+  "purple-extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button purple extra-large with pill"
+  },
+  "purple-extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-purple-extra-large",
+    "body": "<button class=\"text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button purple extra-large"
+  },
+  "green-monogrome-extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green-monogrome extra-small with pill"
+  },
+  "green-monogrome-extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-extra-small",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green-monogrome extra-small"
+  },
+  "green-monogrome-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-small-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green-monogrome small with pill"
+  },
+  "green-monogrome-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-small",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green-monogrome small"
+  },
+  "green-monogrome-base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-base-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green-monogrome base with pill"
+  },
+  "green-monogrome-base": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-base",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green-monogrome base"
+  },
+  "green-monogrome-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-large-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green-monogrome large with pill"
+  },
+  "green-monogrome-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-large",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green-monogrome large"
+  },
+  "green-monogrome-extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button green-monogrome extra-large with pill"
+  },
+  "green-monogrome-extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-green-monogrome-extra-large",
+    "body": "<button class=\"text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button green-monogrome extra-large"
+  },
+  "red-monogrome-extra-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-extra-small-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red-monogrome extra-small with pill"
+  },
+  "red-monogrome-extra-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-extra-small",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-3 py-2 text-xs font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red-monogrome extra-small"
+  },
+  "red-monogrome-small-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-small-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red-monogrome small with pill"
+  },
+  "red-monogrome-small": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-small",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-3 py-2 text-sm font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red-monogrome small"
+  },
+  "red-monogrome-base-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-base-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red-monogrome base with pill"
+  },
+  "red-monogrome-base": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-base",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red-monogrome base"
+  },
+  "red-monogrome-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-large-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red-monogrome large with pill"
+  },
+  "red-monogrome-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-large",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-5 py-3 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red-monogrome large"
+  },
+  "red-monogrome-extra-large-with-pill": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-extra-large-with-pill",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 rounded-full\">Button</button>",
+    "description": "Flowbite button red-monogrome extra-large with pill"
+  },
+  "red-monogrome-extra-large": {
+    "scope": "html",
+    "prefix": "flowbite-button-red-monogrome-extra-large",
+    "body": "<button class=\"text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 px-6 py-3.5 text-base font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2\">Button</button>",
+    "description": "Flowbite button red-monogrome extra-large"
+  }
+}

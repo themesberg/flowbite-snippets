@@ -8,6 +8,10 @@
     "type": "git",
     "url": "https://github.com/themesberg/flowbite-snippets"
   },
+  "scripts": {
+    "build": "node build.js",
+    "publish": "vsce publish"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.28.0"
@@ -36,6 +40,15 @@
       {
         "language": "html",
         "path": "./snippets/breadcrumbs.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/buttons.json"
+      }
+
+      {
+        "language": "html",
+        "path": "./snippets/progress.json"
       }
     ]
   },
