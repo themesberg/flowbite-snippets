@@ -1,0 +1,33 @@
+{
+  "name": "flowbite-snippets",
+  "displayName": "Flowbite Snippets",
+  "description": "Flowbite Snippets",
+  "version": "0.0.1",
+  "publisher": "flowbite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themesberg/flowbite-snippets"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/alerts.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/accordion.json"
+      }
+    ]
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/CorwinDev"
+  }
+}

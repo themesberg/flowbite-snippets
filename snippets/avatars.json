@@ -1,0 +1,127 @@
+{
+    "flowbite-avatar-rounded": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-rounded",
+        "body": [
+            "<img class=\"w-10 h-10 rounded-full\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Rounded avatar\">"
+        ],
+        "description": "Flowbite Rounded Avatar"
+    },
+    "flowbite-avatar-default": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-default",
+        "body": [
+            "<img class=\"w-10 h-10\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Default avatar\">"
+        ],
+        "description": "Flowbite Default Avatar"
+    },
+    "flowbite-avatar-bordered": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-bordered",
+        "body": [
+            "<img class=\"w-10 h-10 p-1 rounded-full ring-2 ring-gray-300 dark:ring-gray-500\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Bordered avatar\">"
+        ],
+        "description": "Flowbite Bordered Avatar"
+    },
+    "flowbite-avatar-placeholder": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-placeholder",
+        "body": [
+            "<div class=\"relative w-10 h-10 overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600\">",
+            "\t<svg class=\"absolute w-12 h-12 text-gray-400 -left-1\" fill=\"currentColor\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" d=\"M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z\" clip-rule=\"evenodd\"></path></svg>",
+            "</div>"
+        ],
+        "description": "Flowbite Placeholder Avatar"
+    },
+    "flowbite-avatar-placeholder-initials": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-placeholder-initials",
+        "body": [
+            "<div class=\"relative inline-flex items-center justify-center w-10 h-10 overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600\">",
+            "\t<span class=\"font-medium text-gray-600 dark:text-gray-300\">JL</span>",
+            "</div>"
+        ],
+        "description": "Flowbite Placeholder Avatar with Initials"
+    },
+    "flowbite-avatar-tooltip": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-tooltip",
+        "body": [
+            "<div>",
+            "\t<div id=\"tooltip-jese\" role=\"tooltip\" class=\"absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700\">",
+            "\t\tJese Leos",
+            "\t\t<div class=\"tooltip-arrow\" data-popper-arrow></div>",
+            "\t</div>",
+            "\t<img data-tooltip-target=\"tooltip-jese\" class=\"w-10 h-10 rounded\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"Medium avatar\">",
+            "</div>"
+        ]
+    },
+    "flowbite-avatar-dot": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-dot",
+        "body": [
+            "<div class=\"relative\">",
+            "\t<img class=\"w-10 h-10 rounded-full\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"\">",
+            "\t<span class=\"top-0 left-7 absolute  w-3.5 h-3.5 bg-green-400 border-2 border-white dark:border-gray-800 rounded-full\"></span>",
+            "</div>"
+        ],
+        "description": "Flowbite Avatar with Dot (status)"
+    },
+    "flowbite-avatar-stacked": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-stacked",
+        "body": [
+            "<div class=\"flex mb-5 -space-x-4\">",
+            "\t<img class=\"w-10 h-10 border-2 border-white rounded-full dark:border-gray-800\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"\">",
+            "\t<img class=\"w-10 h-10 border-2 border-white rounded-full dark:border-gray-800\" src=\"/docs/images/people/profile-picture-2.jpg\" alt=\"\">",
+            "\t<img class=\"w-10 h-10 border-2 border-white rounded-full dark:border-gray-800\" src=\"/docs/images/people/profile-picture-3.jpg\" alt=\"\">",
+            "\t<img class=\"w-10 h-10 border-2 border-white rounded-full dark:border-gray-800\" src=\"/docs/images/people/profile-picture-4.jpg\" alt=\"\">",
+            "</div>"
+        ],
+        "description": "Flowbite Avatar stacked (group)"
+    },
+    "flowbite-avatar-text": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-text",
+        "body": [
+            "<div class=\"flex items-center space-x-4\">",
+            "\t<img class=\"w-10 h-10 rounded-full\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"\">",
+            "\t<div class=\"font-medium dark:text-white\">",
+            "\t\t<div>Jese Leos</div>",
+            "\t\t<div class=\"text-sm text-gray-500 dark:text-gray-400\">Joined in August 2014</div>",
+            "\t</div>",
+            "</div>"
+        ],
+        "description": "Flowbite Avatar with text"
+    },
+    "flowbite-avatar-dropdown": {
+        "scope": "html",
+        "prefix": "flowbite-avatar-dropdown",
+        "body": [
+            "<img id=\"avatarButton\" type=\"button\" data-dropdown-toggle=\"userDropdown\" data-dropdown-placement=\"bottom-start\" class=\"w-10 h-10 rounded-full cursor-pointer\" src=\"/docs/images/people/profile-picture-5.jpg\" alt=\"User dropdown\">",
+            "",
+            "<!-- Dropdown menu -->",
+            "<div id=\"userDropdown\" class=\"z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600\">",
+            "\t<div class=\"px-4 py-3 text-sm text-gray-900 dark:text-white\">",
+            "\t\t<div>Bonnie Green</div>",
+            "\t\t<div class=\"font-medium truncate\">name@flowbite.com</div>",
+            "\t</div>",
+            "\t<ul class=\"py-2 text-sm text-gray-700 dark:text-gray-200\" aria-labelledby=\"avatarButton\">",
+            "\t\t<li>",
+            "\t\t\t<a href=\"#\" class=\"block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white\">Dashboard</a>",
+            "\t\t</li>",
+            "\t\t<li>",
+            "\t\t\t<a href=\"#\" class=\"block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white\">Settings</a>",
+            "\t\t</li>",
+            "\t\t<li>",
+            "\t\t\t<a href=\"#\" class=\"block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white\">Earnings</a>",
+            "\t\t</li>",
+            "\t</ul>",
+            "\t<div class=\"py-1\">",
+            "\t\t<a href=\"#\" class=\"block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white\">Sign out</a>",
+            "\t</div>",
+            "</div>"
+        ],
+        "description": "Flowbite Avatar with dropdown menu"
+    }
+}
