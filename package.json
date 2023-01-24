@@ -45,6 +45,10 @@
         "language": "html",
         "path": "./snippets/buttons.json"
       },
+      {
+        "language": "html",
+        "path": "./snippets/buttongroups.json"
+      },
 
       {
         "language": "html",
